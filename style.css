@@ -1,0 +1,32 @@
+.header{
+    color: #003d6b;
+    text-align: center;
+}
+.header_text{
+    color:rgb(0, 57, 114);
+    margin-left: 25px;
+}
+.text{
+    color:coral ;
+    font-size: 25px;
+}
+body{
+    background:slategray;
+}
+.main{
+    width: 70%;
+    margin: 0 auto;
+    background: #ffffffde;
+    border: 2px solid black;
+    padding: 0 20px ;
+
+}
+.nav_bar{
+    display: flex;
+    justify-content: flex-end;
+}
+.nav_link{
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+}
